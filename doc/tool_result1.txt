@@ -1,0 +1,301 @@
+
+
+
+
+ Ratings:  2371095  AvgRating:  4.12  Autor:  Anne Frank : 		 The Diary of a Young Girl
+ Ratings:  27303  AvgRating:  4.08  Autor:  Barbara W. Tuchman : 		 A Distant Mirror: The Calamitous 14th Century
+ Ratings:  6309  AvgRating:  4.19  Autor:  Neil MacGregor : 		 A History of the World in 100 Objects
+ Ratings:  4405  AvgRating:  4.24  Autor:  Eric Hobsbawm : 		 The Age of Extremes: A History of the World, 1914-1991
+ Ratings:  90716  AvgRating:  4.08  Autor:  Erik Larson : 		 Dead Wake: The Last Crossing of the Lusitania
+ Ratings:  4043  AvgRating:  4.18  Autor:  Eric Hobsbawm : 		 The Age of Revolution, 1789-1848
+ Ratings:  851210  AvgRating:  4.32  Autor:  Elie Wiesel : 		 Night
+ Ratings:  4816  AvgRating:  4.02  Autor:  Barbara W. Tuchman : 		 The March of Folly: From Troy to Vietnam
+ Ratings:  368400  AvgRating:  4.18  Autor:  Neil Gaiman : 		 Neverwhere
+ Ratings:  27084  AvgRating:  4.20  Autor:  James Ellroy : 		 L.A. Confidential
+ Ratings:  42923  AvgRating:  4.17  Autor:  Richard Dawkins : 		 The Greatest Show on Earth: The Evidence for Evolution
+ Ratings:  2183439  AvgRating:  4.29  Autor:  Suzanne Collins : 		 Catching Fire
+ Ratings:  2556449  AvgRating:  4.17  Autor:  George Orwell : 		 1984
+ Ratings:  404290  AvgRating:  4.25  Autor:  Terry Pratchett : 		 Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ Ratings:  309105  AvgRating:  4.08  Autor:  Neil Gaiman : 		 Stardust
+ Ratings:  173653  AvgRating:  4.02  Autor:  Neil Gaiman : 		 Anansi Boys
+ Ratings:  8354  AvgRating:  4.19  Autor:  Philip K. Dick : 		 The Collected Stories of Philip K. Dick 4: The Minority Report
+ Ratings:  62122  AvgRating:  4.09  Autor:  Sue Grafton : 		 M is for Malice
+ Ratings:  70367  AvgRating:  4.21  Autor:  Ursula K. Le Guin : 		 The Dispossessed
+ Ratings:  248391  AvgRating:  4.03  Autor:  Emily St. John Mandel : 		 Station Eleven
+ Ratings:  123394  AvgRating:  4.24  Autor:  James S.A. Corey : 		 Leviathan Wakes
+ Ratings:  695295  AvgRating:  4.41  Autor:  George R.R. Martin : 		 A Clash of Kings
+ Ratings:  2144154  AvgRating:  4.28  Autor:  Khaled Hosseini : 		 The Kite Runner
+ Ratings:  1560727  AvgRating:  4.10  Autor:  Arthur Golden : 		 Memoirs of a Geisha
+ Ratings:  997275  AvgRating:  4.36  Autor:  Khaled Hosseini : 		 A Thousand Splendid Suns
+ Ratings:  319188  AvgRating:  4.07  Autor:  Lisa See : 		 Snow Flower and the Secret Fan
+ Ratings:  193672  AvgRating:  4.30  Autor:  Chimamanda Ngozi Adichie : 		 Americanah
+ Ratings:  1861621  AvgRating:  4.46  Autor:  Kathryn Stockett : 		 The Help
+ Ratings:  609698  AvgRating:  4.05  Autor:  Barbara Kingsolver : 		 The Poisonwood Bible
+ Ratings:  455670  AvgRating:  4.19  Autor:  Alice Walker : 		 The Color Purple
+ Ratings:  114849  AvgRating:  4.35  Autor:  Rohinton Mistry : 		 A Fine Balance
+ Ratings:  273781  AvgRating:  4.03  Autor:  Haruki Murakami : 		 Norwegian Wood
+ Ratings:  265308  AvgRating:  4.05  Autor:  Khaled Hosseini : 		 And the Mountains Echoed
+ Ratings:  78091  AvgRating:  4.31  Autor:  Chimamanda Ngozi Adichie : 		 Half of a Yellow Sun
+ Ratings:  144780  AvgRating:  4.14  Autor:  Jhumpa Lahiri : 		 Interpreter of Maladies
+ Ratings:  46432  AvgRating:  4.24  Autor:  Lisa See : 		 The Tea Girl of Hummingbird Lane
+ Ratings:  324757  AvgRating:  4.10  Autor:  Malala Yousafzai : 		 I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban
+ Ratings:  78380  AvgRating:  4.25  Autor:  Jung Chang : 		 Wild Swans: Three Daughters of China
+ Ratings:  1556208  AvgRating:  4.37  Autor:  Markus Zusak : 		 The Book Thief
+ Ratings:  245540  AvgRating:  4.13  Autor:  Haruki Murakami : 		 Kafka on the Shore
+ Ratings:  481985  AvgRating:  4.09  Autor:  Frank McCourt : 		 Angela's Ashes
+ Ratings:  785667  AvgRating:  4.33  Autor:  Anthony Doerr : 		 All the Light We Cannot See
+ Ratings:  51262  AvgRating:  4.16  Autor:  Chimamanda Ngozi Adichie : 		 Purple Hibiscus
+ Ratings:  653881  AvgRating:  4.06  Autor:  Gabriel García Márquez : 		 One Hundred Years of Solitude
+ Ratings:  187128  AvgRating:  4.17  Autor:  Haruki Murakami : 		 The Wind-Up Bird Chronicle
+ Ratings:  648178  AvgRating:  4.38  Autor:  Laura Hillenbrand : 		 Unbroken: A World War II Story of Survival, Resilience and Redemption
+ Ratings:  52414  AvgRating:  4.22  Autor:  Dee Brown : 		 Bury My Heart at Wounded Knee: An Indian History of the American West
+ Ratings:  77906  AvgRating:  4.10  Autor:  David Grann : 		 Killers of the Flower Moon: The Osage Murders and the Birth of the FBI
+ Ratings:  432261  AvgRating:  4.13  Autor:  Malcolm Gladwell : 		 Outliers: The Story of Success
+ Ratings:  18846  AvgRating:  4.20  Autor:  Steven Pinker : 		 The Better Angels of Our Nature: Why Violence Has Declined
+ Ratings:  21605  AvgRating:  4.21  Autor:  Michel Foucault : 		 Discipline and Punish: The Birth of the Prison
+ Ratings:  14717  AvgRating:  4.17  Autor:  Neil Postman : 		 Amusing Ourselves to Death: Public Discourse in the Age of Show Business
+ Ratings:  19361  AvgRating:  4.03  Autor:  Sudhir Venkatesh : 		 Gang Leader for a Day: A Rogue Sociologist Takes to the Streets
+ Ratings:  32451  AvgRating:  4.23  Autor:  Naomi Klein : 		 The Shock Doctrine: The Rise of Disaster Capitalism
+ Ratings:  83731  AvgRating:  4.12  Autor:  Dan Ariely : 		 Predictably Irrational: The Hidden Forces That Shape Our Decisions
+ Ratings:  15929  AvgRating:  4.04  Autor:  Michel Foucault : 		 The History of Sexuality, Volume 1: An Introduction
+ Ratings:  785658  AvgRating:  4.12  Autor:  Walter Isaacson : 		 Steve Jobs
+ Ratings:  100870  AvgRating:  4.10  Autor:  Walter Isaacson : 		 Einstein: His Life and Universe
+ Ratings:  154305  AvgRating:  4.23  Autor:  Ashlee Vance : 		 Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
+ Ratings:  127117  AvgRating:  4.28  Autor:  Richard Feynman : 		 "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character
+ Ratings:  776168  AvgRating:  4.26  Autor:  Jeannette Walls : 		 The Glass Castle
+ Ratings:  195875  AvgRating:  4.45  Autor:  Trevor Noah : 		 Born a Crime: Stories From a South African Childhood
+ Ratings:  682641  AvgRating:  4.09  Autor:  Mitch Albom : 		 Tuesdays with Morrie
+ Ratings:  148384  AvgRating:  4.13  Autor:  Patti Smith : 		 Just Kids
+ Ratings:  185990  AvgRating:  4.05  Autor:  Anthony Bourdain : 		 Kitchen Confidential: Adventures in the Culinary Underbelly
+ Ratings:  35164  AvgRating:  4.13  Autor:  Elizabeth Kolbert : 		 The Sixth Extinction: An Unnatural History
+ Ratings:  9923  AvgRating:  4.32  Autor:  Andrea Wulf : 		 The Invention of Nature: Alexander von Humboldt's New World
+ Ratings:  42113  AvgRating:  4.06  Autor:  Michael Pollan : 		 The Botany of Desire: A Plant's-Eye View of the World
+ Ratings:  5872  AvgRating:  4.03  Autor:  Charles Darwin : 		 Voyage of the Beagle
+ Ratings:  20026  AvgRating:  4.06  Autor:  Peter Wohlleben : 		 The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from a Secret World
+ Ratings:  30246  AvgRating:  4.25  Autor:  Gerald Durrell : 		 My Family and Other Animals
+ Ratings:  19437  AvgRating:  4.13  Autor:  Richard Dawkins : 		 The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution
+ Ratings:  5122  AvgRating:  4.15  Autor:  Edward O. Wilson : 		 The Diversity of Life
+ Ratings:  163352  AvgRating:  4.18  Autor:  Michael Pollan : 		 The Omnivore's Dilemma: A Natural History of Four Meals
+ Ratings:  2548515  AvgRating:  4.25  Autor:  Jane Austen : 		 Pride and Prejudice
+ Ratings:  573222  AvgRating:  4.31  Autor:  Ken Follett : 		 The Pillars of the Earth
+ Ratings:  426128  AvgRating:  4.05  Autor:  Philippa Gregory : 		 The Other Boleyn Girl
+ Ratings:  3886542  AvgRating:  4.27  Autor:  Harper Lee : 		 To Kill a Mockingbird
+ Ratings:  520848  AvgRating:  4.15  Autor:  Mary Ann Shaffer : 		 The Guernsey Literary and Potato Peel Pie Society
+ Ratings:  989101  AvgRating:  4.29  Autor:  Margaret Mitchell : 		 Gone with the Wind
+ Ratings:  497935  AvgRating:  4.56  Autor:  Kristin Hannah : 		 The Nightingale
+ Ratings:  49825  AvgRating:  4.25  Autor:  Lisa Kleypas : 		 Devil in Winter
+ Ratings:  72458  AvgRating:  4.10  Autor:  Julia Quinn : 		 The Duke and I
+ Ratings:  1427844  AvgRating:  4.11  Autor:  Charlotte Brontë : 		 Jane Eyre
+ Ratings:  131882  AvgRating:  4.37  Autor:  Ruta Sepetys : 		 Between Shades of Gray
+ Ratings:  1237961  AvgRating:  4.08  Autor:  Sara Gruen : 		 Water for Elephants
+ Ratings:  410032  AvgRating:  4.13  Autor:  John Boyne : 		 The Boy in the Striped Pajamas
+ Ratings:  117540  AvgRating:  4.32  Autor:  Madeline Miller : 		 The Song of Achilles
+ Ratings:  52619  AvgRating:  4.08  Autor:  Lisa Kleypas : 		 Mine Till Midnight
+ Ratings:  45191  AvgRating:  4.05  Autor:  Lisa Kleypas : 		 Secrets of a Summer Night
+ Ratings:  1470236  AvgRating:  4.06  Autor:  Louisa May Alcott : 		 Little Women
+ Ratings:  86906  AvgRating:  4.36  Autor:  Ruta Sepetys : 		 Salt to the Sea
+ Ratings:  25543  AvgRating:  4.05  Autor:  Jennifer Ashley : 		 The Madness of Lord Ian Mackenzie
+ Ratings:  387978  AvgRating:  4.13  Autor:  Lois Lowry : 		 Number the Stars
+ Ratings:  44251  AvgRating:  4.19  Autor:  Julia Quinn : 		 The Viscount Who Loved Me
+ Ratings:  39052  AvgRating:  4.15  Autor:  Lisa Kleypas : 		 It Happened One Autumn
+ Ratings:  39916  AvgRating:  4.19  Autor:  Julia Quinn : 		 Romancing Mister Bridgerton
+ Ratings:  260503  AvgRating:  4.12  Autor:  Umberto Eco : 		 The Name of the Rose
+ Ratings:  50124  AvgRating:  4.26  Autor:  Julie Garwood : 		 The Bride
+ Ratings:  564582  AvgRating:  4.04  Autor:  Erin Morgenstern : 		 The Night Circus
+ Ratings:  117418  AvgRating:  4.13  Autor:  Richard Dawkins : 		 The Selfish Gene
+ Ratings:  27671  AvgRating:  4.09  Autor:  Richard Dawkins : 		 The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design
+
+ Ratings:  150490  AvgRating:  4.06  Autor:  Mary Roach : 		 Stiff: The Curious Lives of Human Cadavers
+ Ratings:  85644  AvgRating:  4.11  Autor:  Richard Preston : 		 The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus
+ Ratings:  16169  AvgRating:  4.17  Autor:  Carl Sagan : 		 Dragons of Eden: Speculations on the Evolution of Human Intelligence
+ Ratings:  236560  AvgRating:  4.16  Autor:  Stephen Hawking : 		 A Brief History of Time
+ Ratings:  98862  AvgRating:  4.36  Autor:  Carl Sagan : 		 Cosmos
+ Ratings:  139219  AvgRating:  4.05  Autor:  Oliver Sacks : 		 The Man Who Mistook His Wife for a Hat and Other Clinical Tales
+ Ratings:  79171  AvgRating:  4.07  Autor:  Brian Greene : 		 The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
+ Ratings:  32329  AvgRating:  4.07  Autor:  Ben Goldacre : 		 Bad Science
+ Ratings:  55423  AvgRating:  4.03  Autor:  Stephen Hawking : 		 The Grand Design
+ Ratings:  50677  AvgRating:  4.27  Autor:  Carl Sagan : 		 The Demon-Haunted World: Science as a Candle in the Dark
+ Ratings:  30435  AvgRating:  4.12  Autor:  Brian Greene : 		 The Fabric of the Cosmos: Space, Time, and the Texture of Reality
+ Ratings:  214792  AvgRating:  4.13  Autor:  Daniel Kahneman : 		 Thinking, Fast and Slow
+ Ratings:  28639  AvgRating:  4.08  Autor:  Michio Kaku : 		 Physics of the Impossible
+ Quantum Cryptography
+
+ Ratings:  37790  AvgRating:  4.30  Autor:  Douglas R. Hofstadter : 		 Gödel, Escher, Bach: An Eternal Golden Braid
+ Ratings:  30132  AvgRating:  4.15  Autor:  Stephen Hawking : 		 The Universe in a Nutshell
+ Ratings:  16224  AvgRating:  4.20  Autor:  Richard Feynman : 		 Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher
+ Ratings:  20323  AvgRating:  4.04  Autor:  Richard Dawkins : 		 The Magic of Reality: How We Know What's Really True
+ Ratings:  14207  AvgRating:  4.24  Autor:  Richard Feynman : 		 QED: The Strange Theory of Light and Matter
+ Ratings:  16018  AvgRating:  4.05  Autor:  Steven Pinker : 		 The Language Instinct: How the Mind Creates Language
+ Ratings:  26926  AvgRating:  4.21  Autor:  Stephen Hawking : 		 A Briefer History of Time
+ Ratings:  24750  AvgRating:  4.33  Autor:  Carl Sagan : 		 Pale Blue Dot: A Vision of the Human Future in Space
+ Ratings:  12995  AvgRating:  4.18  Autor:  Tom Holland : 		 Rubicon: The Last Years of the Roman Republic
+ Ratings:  6115  AvgRating:  4.15  Autor:  Tom Holland : 		 Persian Fire: The First World Empire and the Battle for the West
+ Ratings:  47876  AvgRating:  4.27  Autor:  Robert Graves : 		 I, Claudius
+ Ratings:  308592  AvgRating:  4.06  Autor:  Bill Bryson : 		 A Walk in the Woods: Rediscovering America on the Appalachian Trail
+ Ratings:  340449  AvgRating:  4.15  Autor:  Jon Krakauer : 		 Into Thin Air: A Personal Account of the Mount Everest Disaster
+ Ratings:  17850  AvgRating:  4.34  Autor:  Douglas Adams : 		 Last Chance to See
+ Ratings:  5909  AvgRating:  4.08  Autor:  Richard   Preston : 		 The Wild Trees: A Story of Passion and Daring
+ Ratings:  10789  AvgRating:  4.20  Autor:  Richard Powers : 		 The Overstory
+ Ratings:  92672  AvgRating:  4.04  Autor:  Barbara Kingsolver : 		 Animal, Vegetable, Miracle: A Year of Food Life
+ Ratings:  13479  AvgRating:  4.18  Autor:  Naomi Klein : 		 This Changes Everything: Capitalism vs. The Climate
+ Ratings:  248945  AvgRating:  4.35  Autor:  Dr. Seuss : 		 The Lorax
+ Ratings:  94000  AvgRating:  4.08  Autor:  Michael Pollan : 		 In Defense of Food: An Eater's Manifesto
+ Ratings:  55988  AvgRating:  4.20  Autor:  Jonathan Safran Foer : 		 Eating Animals
+ Ratings:  54877  AvgRating:  4.02  Autor:  Elizabeth Peters : 		 Crocodile on the Sandbank
+ Ratings:  17327  AvgRating:  4.01  Autor:  Elizabeth Peters : 		 The Curse of the Pharaohs
+ Ratings:  36361  AvgRating:  4.30  Autor:  James A. Michener : 		 The Source
+ Ratings:  14291  AvgRating:  4.04  Autor:  Elizabeth Peters : 		 The Mummy Case
+ Ratings:  8426  AvgRating:  4.07  Autor:  Elly Griffiths : 		 The Ghost Fields
+ Ratings:  8832  AvgRating:  4.12  Autor:  Elly Griffiths : 		 The Outcast Dead
+ Ratings:  9982  AvgRating:  4.03  Autor:  Elly Griffiths : 		 A Dying Fall
+ Ratings:  23335  AvgRating:  4.10  Autor:  Douglas Preston : 		 Thunderhead
+ Ratings:  110294  AvgRating:  4.05  Autor:  Eoin Colfer : 		 The Eternity Code
+ Ratings:  115341  AvgRating:  4.05  Autor:  Eoin Colfer : 		 The Opal Deception
+ Ratings:  72110  AvgRating:  4.07  Autor:  Eoin Colfer : 		 The Time Paradox
+ Ratings:  195304  AvgRating:  4.08  Autor:  James Patterson : 		 The Angel Experiment
+ Ratings:  84387  AvgRating:  4.15  Autor:  James Patterson : 		 Saving the World and Other Extreme Sports
+ Ratings:  54217  AvgRating:  4.06  Autor:  James Patterson : 		 Fang
+ Ratings:  47207  AvgRating:  4.11  Autor:  David Eddings : 		 King of the Murgos
+ Ratings:  278377  AvgRating:  4.08  Autor:  Rick Riordan : 		 The Red Pyramid
+ Ratings:  21379  AvgRating:  4.08  Autor:  Enid Blyton : 		 Five on a Treasure Island
+ Ratings:  6457  AvgRating:  4.60  Autor:  Richard Feynman : 		 The Feynman Lectures on Physics
+ Ratings:  15765  AvgRating:  4.18  Autor:  Albert Einstein : 		 Relativity: The Special and the General Theory
+ Ratings:  15110  AvgRating:  4.07  Autor:  Brian Greene : 		 The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos
+ Ratings:  16204  AvgRating:  4.02  Autor:  John Gribbin : 		 In Search of Schrödinger's Cat: Quantum Physics and Reality
+ Ratings:  18030  AvgRating:  4.12  Autor:  Michio Kaku : 		 Hyperspace A Scientific Odyssey Through
+ Ratings:  15548  AvgRating:  4.18  Autor:  Michio Kaku : 		 Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos
+ Ratings:  6393  AvgRating:  4.22  Autor:  Richard Feynman : 		 Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time
+ Ratings:  5333  AvgRating:  4.29  Autor:  Richard Feynman : 		 The Character of Physical Law
+ Ratings:  19425  AvgRating:  4.27  Autor:  Richard Feynman : 		 "What Do You Care What Other People Think?": Further Adventures of a Curious Character
+ Ratings:  11795  AvgRating:  4.11  Autor:  Stephen Hawking : 		 Black Holes and Baby Universes
+ Ratings:  9316  AvgRating:  4.24  Autor:  Richard Feynman : 		 The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman
+ Ratings:  4552  AvgRating:  4.30  Autor:  Carlo Rovelli : 		 La realtà non è come ci appare: La struttura elementare delle cose
+ Ratings:  5711  AvgRating:  4.07  Autor:  Carlo Rovelli : 		 L'ordine del tempo
+ Ratings:  11993  AvgRating:  4.15  Autor:  Stephen Hawking : 		 The Theory of Everything: The Origin and Fate of the Universe
+ Ratings:  136229  AvgRating:  4.27  Autor:  Gregory David Roberts : 		 Shantaram
+ Ratings:  73401  AvgRating:  4.12  Autor:  Jhumpa Lahiri : 		 Unaccustomed Earth
+ Ratings:  495263  AvgRating:  4.01  Autor:  Hermann Hesse : 		 Siddhartha
+ Ratings:  37779  AvgRating:  4.21  Autor:  M.M. Kaye : 		 The Far Pavilions
+ Ratings:  19609  AvgRating:  4.01  Autor:  Rohinton Mistry : 		 Family Matters
+ Ratings:  12107  AvgRating:  4.04  Autor:  Indu Sundaresan : 		 The Twentieth Wife
+ Ratings:  108899  AvgRating:  4.13  Autor:  Carl Sagan : 		 Contact
+ Ratings:  13267  AvgRating:  4.27  Autor:  Carl Sagan : 		 Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium
+ Ratings:  20326  AvgRating:  4.10  Autor:  Wendy Mass : 		 Every Soul a Star
+ Ratings:  37466  AvgRating:  4.17  Autor:  Chris Hadfield : 		 An Astronaut's Guide to Life on Earth
+ Ratings:  4296  AvgRating:  4.19  Autor:  Stephen Hawking : 		 On the Shoulders of Giants: The Great Works of Physics and Astronomy
+ Ratings:  9592  AvgRating:  4.15  Autor:  David Graeber : 		 Debt: The First 5,000 Years
+ Ratings:  25830  AvgRating:  4.21  Autor:  Joseph Campbell : 		 The Hero With a Thousand Faces
+ Ratings:  38687  AvgRating:  4.30  Autor:  Joseph Campbell : 		 The Power of Myth
+ Ratings:  28604  AvgRating:  4.09  Autor:  Alan Bradley : 		 I Am Half-Sick of Shadows
+ Ratings:  34304  AvgRating:  4.07  Autor:  Alan Bradley : 		 A Red Herring Without Mustard
+ Ratings:  24127  AvgRating:  4.16  Autor:  Alan Bradley : 		 The Dead in Their Vaulted Arches
+ Ratings:  29548  AvgRating:  4.16  Autor:  Alan Bradley : 		 Speaking from Among the Bones
+ Ratings:  7659  AvgRating:  4.08  Autor:  Max Tegmark : 		 Life 3.0: Being Human in the Age of Artificial Intelligence
+ Ratings:  31712  AvgRating:  4.15  Autor:  Martha Wells : 		 All Systems Red
+ Ratings:  239846  AvgRating:  4.19  Autor:  Isaac Asimov : 		 I, Robot
+ Ratings:  213779  AvgRating:  4.14  Autor:  Arthur C. Clarke : 		 2001: A Space Odyssey
+ Ratings:  83594  AvgRating:  4.31  Autor:  Amie Kaufman : 		 Illuminae
+ Ratings:  33553  AvgRating:  4.05  Autor:  Ann Leckie : 		 Ancillary Sword
+ Ratings:  11436  AvgRating:  4.29  Autor:  Martha Wells : 		 Rogue Protocol
+ Ratings:  26032  AvgRating:  4.21  Autor:  Ann Leckie : 		 Ancillary Mercy
+ Ratings:  15331  AvgRating:  4.28  Autor:  Martha Wells : 		 Artificial Condition
+ Ratings:  97286  AvgRating:  4.17  Autor:  Robert A. Heinlein : 		 The Moon is a Harsh Mistress
+ Ratings:  9831  AvgRating:  4.42  Autor:  Martha Wells : 		 Exit Strategy
+ Ratings:  82879  AvgRating:  4.19  Autor:  Dan Simmons : 		 The Fall of Hyperion
+ Ratings:  155449  AvgRating:  4.23  Autor:  Dan Simmons : 		 Hyperion
+ Ratings:  52265  AvgRating:  4.27  Autor:  Iain M. Banks : 		 The Player of Games
+ Ratings:  69038  AvgRating:  4.16  Autor:  Isaac Asimov : 		 The Caves of Steel
+ Ratings:  10214  AvgRating:  4.33  Autor:  Thich Nhat Hanh : 		 The Heart of the Buddha's Teaching: Transforming Suffering into Peace, Joy, and Liberation
+ Ratings:  23750  AvgRating:  4.34  Autor:  Thich Nhat Hanh : 		 Peace Is Every Step: The Path of Mindfulness in Everyday Life
+ Ratings:  18574  AvgRating:  4.26  Autor:  Thich Nhat Hanh : 		 The Miracle of Mindfulness: An Introduction to the Practice of Meditation
+ Ratings:  8527  AvgRating:  4.36  Autor:  Thich Nhat Hanh : 		 Being Peace
+ Ratings:  13273  AvgRating:  4.14  Autor:  Thich Nhat Hanh : 		 Living Buddha, Living Christ
+ Ratings:  5876  AvgRating:  4.17  Autor:  Thich Nhat Hanh : 		 Anger: Wisdom for Cooling the Flames
+ Ratings:  8976  AvgRating:  4.27  Autor:  Jack Kornfield : 		 A Path with Heart: A Guide Through the Perils and Promises of Spiritual Life
+ Ratings:  8157  AvgRating:  4.06  Autor:  Rick Hanson : 		 Buddha's Brain: The Practical Neuroscience of Happiness, Love, and Wisdom
+ Ratings:  5168  AvgRating:  4.07  Autor:  Brad Warner : 		 Hardcore Zen: Punk Rock, Monster Movies and the Truth about Reality
+ Ratings:  4691  AvgRating:  4.26  Autor:  Sharon Salzberg : 		 Lovingkindness: The Revolutionary Art of Happiness
+ Ratings:  4993  AvgRating:  4.37  Autor:  Jack Kornfield : 		 The Wise Heart: A Guide to the Universal Teachings of Buddhist Psychology
+ Ratings:  21974  AvgRating:  4.22  Autor:  Sogyal Rinpoche : 		 The Tibetan Book of Living and Dying
+ Ratings:  53247  AvgRating:  4.05  Autor:  Ovid : 		 Metamorphoses
+ Ratings:  34496  AvgRating:  4.03  Autor:  Plato : 		 The Symposium
+ Ratings:  29921  AvgRating:  4.07  Autor:  Plato : 		 The Trial and Death of Socrates (Euthyphro, Apology, Crito, Phaedo (death scene only))
+ Ratings:  28255  AvgRating:  4.16  Autor:  Plato : 		 Apology
+ Ratings:  15097  AvgRating:  4.33  Autor:  Seneca : 		 Letters from a Stoic
+ Ratings:  8365  AvgRating:  4.02  Autor:  Plato : 		 Phaedo
+ Ratings:  78226  AvgRating:  4.07  Autor:  Bill Bryson : 		 In a Sunburned Country
+ Ratings:  60632  AvgRating:  4.08  Autor:  John Steinbeck : 		 Travels with Charley: In Search of America
+ Ratings:  5474  AvgRating:  4.06  Autor:  Patrick Leigh Fermor : 		 A Time of Gifts
+ Ratings:  15609  AvgRating:  4.07  Autor:  Heinrich Harrer : 		 Seven Years in Tibet
+ Ratings:  7783  AvgRating:  4.01  Autor:  Paul Theroux : 		 Riding the Iron Rooster
+ Ratings:  5714  AvgRating:  4.01  Autor:  Paul Theroux : 		 Ghost Train to the Eastern Star
+ Ratings:  17702  AvgRating:  4.11  Autor:  Thor Heyerdahl : 		 Kon-Tiki
+ Ratings:  460886  AvgRating:  4.07  Autor:  Truman Capote : 		 In Cold Blood
+ Ratings:  186726  AvgRating:  4.33  Autor:  Stephen King : 		 On Writing: A Memoir of the Craft
+ Ratings:  116133  AvgRating:  4.46  Autor:  Chimamanda Ngozi Adichie : 		 We Should All Be Feminists
+ Ratings:  243755  AvgRating:  4.07  Autor:  Charles Duhigg : 		 The Power of Habit: Why We Do What We Do in Life and Business
+ Ratings:  277793  AvgRating:  4.35  Autor:  Viktor E. Frankl : 		 Man's Search for Meaning
+ Ratings:  1242035  AvgRating:  4.16  Autor:  E.B. White : 		 Charlotte's Web
+ Ratings:  353086  AvgRating:  4.06  Autor:  Richard  Adams : 		 Watership Down
+ Ratings:  419760  AvgRating:  4.13  Autor:  John Grogan : 		 Marley and Me: Life and Love With the World's Worst Dog
+ Ratings:  104884  AvgRating:  4.32  Autor:  James Herriot : 		 All Creatures Great and Small
+ Ratings:  107808  AvgRating:  4.26  Autor:  Katherine Applegate : 		 The One and Only Ivan
+ Ratings:  97949  AvgRating:  4.35  Autor:  W. Bruce Cameron : 		 A Dog's Purpose
+ Ratings:  62764  AvgRating:  4.31  Autor:  James Herriot : 		 All Things Bright and Beautiful
+ Ratings:  142354  AvgRating:  4.03  Autor:  Kate DiCamillo : 		 The Tale of Despereaux
+ Ratings:  66171  AvgRating:  4.29  Autor:  Erin Hunter : 		 Into the Wild
+ Ratings:  178537  AvgRating:  4.03  Autor:  Kate DiCamillo : 		 Because of Winn-Dixie
+ Ratings:  93773  AvgRating:  4.12  Autor:  Brian Jacques : 		 Redwall
+ Ratings:  155545  AvgRating:  4.14  Autor:  Robert C. O'Brien : 		 Mrs. Frisby and the Rats of NIMH
+ Ratings:  22364  AvgRating:  4.04  Autor:  Sara Pennypacker : 		 Pax
+ Ratings:  24335  AvgRating:  4.40  Autor:  James Herriot : 		 All Things Wise and Wonderful
+ Ratings:  129785  AvgRating:  4.21  Autor:  Laura Hillenbrand : 		 Seabiscuit: An American Legend
+ Ratings:  38633  AvgRating:  4.05  Autor:  Marguerite Henry : 		 Misty of Chincoteague
+ Ratings:  36695  AvgRating:  4.14  Autor:  Michael Morpurgo : 		 War Horse
+ Ratings:  18948  AvgRating:  4.41  Autor:  James Herriot : 		 The Lord God Made Them All
+ Ratings:  183484  AvgRating:  4.17  Autor:  Beatrix Potter : 		 The Tale of Peter Rabbit
+ Ratings:  65810  AvgRating:  4.19  Autor:  Walter Farley : 		 The Black Stallion
+ Ratings:  39454  AvgRating:  4.37  Autor:  Erin Hunter : 		 Fire and Ice
+ Ratings:  194915  AvgRating:  4.01  Autor:  Margaret Atwood : 		 Oryx and Crake
+ Ratings:  673803  AvgRating:  4.40  Autor:  Andy Weir : 		 The Martian
+ Ratings:  77903  AvgRating:  4.01  Autor:  John Wyndham : 		 The Day of the Triffids
+ Ratings:  224627  AvgRating:  4.10  Autor:  David Sedaris : 		 Dress Your Family in Corduroy and Denim
+ Ratings:  219894  AvgRating:  4.09  Autor:  David Sedaris : 		 Naked
+ Ratings:  169596  AvgRating:  4.05  Autor:  David Sedaris : 		 When You Are Engulfed in Flames
+ Ratings:  139183  AvgRating:  4.26  Autor:  Christopher Moore : 		 Lamb: The Gospel According to Biff, Christ's Childhood Pal
+ Ratings:  175767  AvgRating:  4.20  Autor:  Douglas Adams : 		 Life, the Universe and Everything
+ Ratings:  128122  AvgRating:  4.09  Autor:  Douglas Adams : 		 So Long, and Thanks for All the Fish
+ Ratings:  704708  AvgRating:  4.26  Autor:  William Goldman : 		 The Princess Bride
+ Ratings:  94956  AvgRating:  4.07  Autor:  Christopher Moore : 		 A Dirty Job
+ Ratings:  168083  AvgRating:  4.23  Autor:  Terry Pratchett : 		 Mort
+ Ratings:  376234  AvgRating:  4.02  Autor:  Graeme Simsion : 		 The Rosie Project
+ Ratings:  273467  AvgRating:  4.17  Autor:  Oscar Wilde : 		 The Importance of Being Earnest
+ Ratings:  446692  AvgRating:  4.04  Autor:  Janet Evanovich : 		 One for the Money
+ Ratings:  80257  AvgRating:  4.13  Autor:  Terry Pratchett : 		 Wyrd Sisters
+ Ratings:  91782  AvgRating:  4.06  Autor:  Friedrich Nietzsche : 		 Thus Spoke Zarathustra
+ Ratings:  50783  AvgRating:  4.02  Autor:  Friedrich Nietzsche : 		 Beyond Good and Evil
+ Ratings:  27613  AvgRating:  4.07  Autor:  Bertrand Russell : 		 A History of Western Philosophy
+ Ratings:  35633  AvgRating:  4.20  Autor:  Albert Camus : 		 The Myth of Sisyphus and Other Essays
+ Ratings:  15805  AvgRating:  4.11  Autor:  Friedrich Nietzsche : 		 On the Genealogy of Morals
+ Ratings:  14235  AvgRating:  4.06  Autor:  Ludwig Wittgenstein : 		 Tractatus Logico-Philosophicus
+ Ratings:  11336  AvgRating:  4.03  Autor:  Baruch Spinoza : 		 Ethics
+ Ratings:  11386  AvgRating:  4.23  Autor:  Ludwig Wittgenstein : 		 Philosophical Investigations
+ Ratings:  18862  AvgRating:  4.08  Autor:  Steven Pinker : 		 The Blank Slate: The Modern Denial of Human Nature
+ Ratings:  6470  AvgRating:  4.15  Autor:  Paul Hoffman : 		 The Man Who Loved Only Numbers: The Story of Paul Erdős and the Search for Mathematical Truth
+ Ratings:  22320  AvgRating:  4.08  Autor:  Walter Isaacson : 		 The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution
+ Ratings:  19203  AvgRating:  4.05  Autor:  Eric Schmidt : 		 How Google Works
+ Ratings:  8277  AvgRating:  4.12  Autor:  Peter H. Diamandis : 		 Abundance: The Future Is Better Than You Think
+ Ratings:  11906  AvgRating:  4.08  Autor:  Glenn Greenwald : 		 No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State
+ Ratings:  77658  AvgRating:  4.07  Autor:  Adam Johnson : 		 The Orphan Master's Son
+ Ratings:  15915  AvgRating:  4.10  Autor:  Tan Twan Eng : 		 The Garden of Evening Mists
+ Ratings:  47259  AvgRating:  4.03  Autor:  David Mitchell : 		 The Thousand Autumns of Jacob de Zoet
+ Ratings:  1685427  AvgRating:  4.24  Autor:  Rick Riordan : 		 The Lightning Thief
+ Ratings:  634750  AvgRating:  4.24  Autor:  Rick Riordan : 		 The Sea of Monsters
+ Ratings:  583958  AvgRating:  4.35  Autor:  Rick Riordan : 		 The Titan's Curse
+ Ratings:  2574032  AvgRating:  4.21  Autor:  Veronica Roth : 		 Divergent
+ Ratings:  615977  AvgRating:  4.39  Autor:  Rick Riordan : 		 The Battle of the Labyrinth
+ Ratings:  570894  AvgRating:  4.51  Autor:  Rick Riordan : 		 The Last Olympian
+ Ratings:  1868129  AvgRating:  4.21  Autor:  C.S. Lewis : 		 The Lion, the Witch and the Wardrobe
+ Ratings:  673050  AvgRating:  4.24  Autor:  Alexandre Dumas : 		 The Count of Monte Cristo
+
+

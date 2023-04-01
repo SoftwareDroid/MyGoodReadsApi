@@ -1,0 +1,19 @@
+p:"KRAhoIsEkVFdMrIVsieXV1qFALQzO54y-8ucHauxzAXSjIsB"
+CreationTime:"Fri, 19 Apr 2019 06:26:04 GMT"
+Domain:"www.goodreads.com"
+HostOnly:true
+HttpOnly:false
+LastAccessed:"Fri, 19 Apr 2019 06:34:32 GMT"
+Secure:true
+sameSite:"Unset"
+
+u:"ryt7WmWMdZ2OxBkhnkgM8OLRkrwZWuojwdLC_b9pImTuuHNM"
+CreationTime:"Fri, 19 Apr 2019 06:26:04 GMT"
+Domain:"www.goodreads.com"
+Expires:"Thu, 18 Jul 2019 06:26:03 GMT"
+HostOnly:true
+HttpOnly:false
+LastAccessed:"Fri, 19 Apr 2019 06:34:32 GMT"
+Path:"/"
+Secure:true
+sameSite:"Unset"
